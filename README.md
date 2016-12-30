@@ -1,4 +1,5 @@
 # Image Swatch
+[![Build Status](https://travis-ci.org/siddhu33/ImageSwatch.svg?branch=master)](https://travis-ci.org/siddhu33/ImageSwatch)
 ## Before
 ![before processing](https://upload.wikimedia.org/wikipedia/commons/e/e6/Big.Buck.Bunny.-.Landscape.png)
 ## After
